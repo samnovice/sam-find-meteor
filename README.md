@@ -4,4 +4,8 @@ Here trying to run a python project to calculate distance between chennai and ne
 
 This code need python 3 and requests package
 
-python3 find_meteor.py 
+First install pipenv then
+
+pipenv install
+
+pipenv run python find_meteor.py
